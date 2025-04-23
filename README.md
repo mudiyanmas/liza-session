@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/+"><img src="https://github.com/liza.png" width="250" height="250" alt="Mudiyanmass"/></a>
+ <a href="https://github.com/mudiyanmas/LizamwolMD"><img src="https://files.catbox.moe/8nhlo0.jpg" width="250" height="250" alt="Mudiyanmass"/></a>
 
    
